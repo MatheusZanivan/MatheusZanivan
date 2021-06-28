@@ -14,7 +14,7 @@
 <!--[![MatheusZanivan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-- ⚡ I'm realy on what I do, so you can contact me using the link bellow <br>
+- ⚡ I'm realy good on what I do, so you can contact me using the link bellow <br>
   <a href="https://www.linkedin.com/in/matheuszanivan/"  target="_blank" alt="Linkedin" >
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/matheuszanivan/" /></a>
   <a href="https://api.whatsapp.com/send?phone=5511933553767" target="_blank" alt="WhatsApp">
