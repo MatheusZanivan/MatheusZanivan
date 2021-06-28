@@ -15,12 +15,15 @@
 <!--[![MatheusZanivan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-- ⚡ I realy like what I do, so you can contact me using the link bellow
+- ⚡ I'm realy on what I do, so you can contact me using the link bellow
 
   <a href="https://www.linkedin.com/in/matheuszanivan/"  target="_blank" alt="Linkedin" >
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/matheuszanivan/" /></a>
   <a href="https://api.whatsapp.com/send?phone=5511933553767" target="_blank" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511933553767"/></a>
+  <a href="zanivanandrade@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/-GMAIL-red" />
+</a>
 
 
 
