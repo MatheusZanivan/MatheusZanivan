@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<!--
+<p align="left"> 
+  My name is <strong>Matheus Zanivan Andrade</strong>, from <strong>Brazil</strong> 🇧🇷<br>
+  Front end developer, 19 years old<br><br>
+  Today I am dedicated to personal projects and learning new technologies and frameworks.
+</p>
+
 **MatheusZanivan/MatheusZanivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
