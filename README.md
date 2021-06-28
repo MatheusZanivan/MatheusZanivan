@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on IT and web development
 - 💼 ⚙ Tools: <strong>HTML5, CSS3, JS, ReactJS, BootStrap, C, C#, .NET, NodeJs, phyton, VsCode, Git, GitHub.</strong> 
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusZanivan&show_icons=true&theme=dark)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZanivan&theme=dark)](https://github.com/MatheusZanivan/MatheusZanivan)
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusZanivan&show_icons=true&theme=tokyonight)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZanivan&langs_count=8&theme=tokyonight)](https://github.com/MatheusZanivan/github-readme-stats)
 <!--[![MatheusZanivan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
