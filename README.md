@@ -24,7 +24,7 @@
 ![Matheus's github activity graph](https://activity-graph.herokuapp.com/graph?username=MatheusZanivan&theme=react-dark)
 
 <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusZanivan&theme=tokyonight&hide_border=true&background=FFFFFF00" style="width:100%;">-->
-
+### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/MatheusZanivan/count.svg)
 
 - ⚡ I'm realy good on what I do, so you can contact me using the link bellow <br>
