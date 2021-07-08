@@ -11,10 +11,9 @@
 - 🔭 I’m currently working on IT and web development
 - 💼 ⚙ Tools: <strong>HTML5, CSS3, JS, ReactJS, BootStrap, C, C#, .NET, NodeJs, phyton, VsCode, Git, GitHub.</strong> 
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusZanivan&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZanivan&langs_count=8&theme=tokyonight)](https://github.com/MatheusZanivan/github-readme-stats)
 ![Matheus's github activity graph](https://github-profile-trophy.vercel.app/?username=MatheusZanivan&theme=juicyfresh&no-bg=true&no-frame=true&column=4&%22)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZanivan&langs_count=8&theme=tokyonight)](https://github.com/MatheusZanivan/github-readme-stats)
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusZanivan&show_icons=true&theme=tokyonight)
 <!--[![MatheusZanivan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
