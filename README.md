@@ -27,7 +27,7 @@
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/MatheusZanivan/count.svg)
 
-- ⚡ I'm realy good on what I do, so you can contact me using the link bellow <br>
+ ### ⚡ I'm realy good on what I do, so you can contact me using the link bellow ⏬⏬⏬<br>
   <a href="https://www.linkedin.com/in/matheuszanivan/" target="_blank" alt="Linkedin" >
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/matheuszanivan/" /></a>
   <a href="https://api.whatsapp.com/send?phone=5511933553767" target="_blank" alt="WhatsApp">
