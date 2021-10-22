@@ -3,7 +3,7 @@
 # Matheus's GitHub :v:
 <p align="left"> 
   My name is <strong>Matheus Zanivan Andrade</strong>, from <strong>Brazil</strong> 🇧🇷<br>
-  Front end developer, 19 years old!<br>
+  Front end developer, 20 years old!<br>
   ✨Today I am dedicated to personal projects and learning new technologies and frameworks at college.✨
 </p>
 
