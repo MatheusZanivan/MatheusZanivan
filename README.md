@@ -1,4 +1,4 @@
-<img src="https://github-profile-trophy.vercel.app/?username=MatheusZanivan&theme=juicyfresh&no-bg=true&no-frame=true&column=4&%22" min-width="400px" max-width="400px" width="400px" align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=MatheusZanivan&show_icons=true&theme=tokyonight" min-width="400px" max-width="400px" width="400px" align="right" >
 
 # Matheus's GitHub :v:
 <p align="left"> 
