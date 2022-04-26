@@ -12,7 +12,7 @@
 - 💼 ⚙ Tools: <strong>HTML5, CSS3, JS, ReactJS, BootStrap, C, C#, .NET, NodeJs, phyton, VsCode, Git, GitHub.</strong> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZanivan&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/MatheusZanivan/github-readme-stats)
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusZanivan&show_icons=true&theme=tokyonight)
+
 <!--[![MatheusZanivan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
