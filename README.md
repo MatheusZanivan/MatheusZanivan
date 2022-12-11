@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on IT and web development
-- 💼 ⚙ Tools: <strong>HTML5, CSS3, JS, ReactJS, BootStrap, C, C#, .NET, NodeJs, phyton, VsCode, Git, GitHub.</strong> 
+- 💼 ⚙ Tools: <strong>Swift, HTML5, CSS3, JS, ReactJS, BootStrap, C, phyton, GitHub.</strong> 
 
 
 
